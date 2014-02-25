@@ -1,0 +1,660 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"text",
+				"text-shadow"
+			],
+			[
+				"pa",
+				"pagination"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"cont",
+				"content-sidebar-right"
+			],
+			[
+				"content",
+				"content-sidebar-left"
+			],
+			[
+				"image",
+				"image-overlay"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"left",
+				"left"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"copyright",
+				"copyright-light-color"
+			],
+			[
+				"dar",
+				"dark-blue"
+			],
+			[
+				"dark-",
+				"dark-grey"
+			],
+			[
+				"light",
+				"light-blue"
+			],
+			[
+				"medium",
+				"medium-blue"
+			],
+			[
+				"menu",
+				"menu-hover"
+			],
+			[
+				"me",
+				"medium-blue"
+			],
+			[
+				"dark",
+				"dark-blue"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"comment",
+				"Snippet: Idiomatic CSS - Section Comment Block"
+			],
+			[
+				"pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"top",
+				"Snippet: ZURB Foundation 5 Topbar"
+			],
+			[
+				"off",
+				"Snippet: ZURB Foundation 5 Offcanvas"
+			],
+			[
+				"pck",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet long",
+				"Snippet: Idiomatic CSS - Longer Descriptor Comment"
+			],
+			[
+				"pcka in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"snipp",
+				"Snippet: Foundation-Index"
+			],
+			[
+				"pckag ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"commen",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"setsyntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"setsyntax java",
+				"Set Syntax: Java"
+			],
+			[
+				"setsyntax: php",
+				"Set Syntax: PHP"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"gi",
+				"Gist: Insert Gist"
+			],
+			[
+				"gis",
+				"Gist: Open Gist"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Founda",
+				"Code Folding: Unfold All"
+			],
+			[
+				"foun",
+				"Snippet: Zurb Foundation - ul Block Grid - Two up"
+			],
+			[
+				"founda",
+				"Snippet: Zurb Foundation - New Page"
+			],
+			[
+				"Foundatio",
+				"Snippet: Zurb Foundation - New Page"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/Projects/2.WPTheme-Dev/0.Template/Documentation/index.html",
+		"/C/wamp/www/Projects/6.CMNTY-Corporation/Telenet/sass/style.scss",
+		"/C/wamp/www/Projects/6.CMNTY-Corporation/Telenet/stylesheets/style.css",
+		"/C/wamp/www/Libraries/Sublime-Text-3-Project-Map/4.Envato-Tuts-Plus/foundation-5-topbar-offcanvas-demo.sublime-project",
+		"/F/Vuze/Age Of Mythology Complete/Age of Mythology CD-Key.txt",
+		"/F/Vuze/Age Of Mythology Complete/Age of Mythology - The Titans CD-Key.txt",
+		"/C/wamp/www/arctic-theme-options.css",
+		"/C/Users/Personal/Copy/IT Starts With Coffee/5. Espresso Themes/1. Under development/Themes/Arctic Foundation 5 WordPress Theme/Demo site/font-icons-pack.html",
+		"/C/Users/Personal/AppData/Local/Temp/1-style.css",
+		"/C/Users/Personal/AppData/Local/Temp/3-style.css",
+		"/C/Users/Personal/AppData/Local/Temp/2-style.css",
+		"/C/wamp/www/projects/2.wptheme-dev/arctic-wp-theme/scss/_settings.scss",
+		"/C/wamp/www/projects/2.wptheme-dev/arctic-wp-theme/css/style-dark.css",
+		"/C/wamp/www/foundation-icons.css",
+		"/F/Vuze/Age Of Mythology Complete/READ ME Age Of Mythology General Guide.txt",
+		"/C/Users/Personal/Desktop/playstation2/readme.txt",
+		"/C/Users/Personal/Desktop/playstation2/cdimages/put_cdimages_here.txt",
+		"/C/wamp/www/projects/2.wptheme-dev/arctic-wp-theme/blog.html",
+		"/C/wamp/www/projects/2.wptheme-dev/arctic-wp-theme/portfolio.html",
+		"/C/wamp/www/projects/2.wptheme-dev/arctic-wp-theme/post.html",
+		"/C/wamp/www/Libraries/Sublime-Text-3-Project-Map/2.WPTheme-Dev/espresso-themes.sublime-project",
+		"/C/wamp/www/projects/2.wptheme-dev/arctic-wp-theme/sidebar-right.html",
+		"/C/wamp/www/projects/2.wptheme-dev/arctic-wp-theme/sidebar-left.html",
+		"/C/wamp/www/Libraries/Sublime-Text-3-Project-Map/1.SiteTemplate-Dev/wp-theme-documentation.sublime-project",
+		"/C/Users/Personal/Documents/themeforest-4371217-ultra-responsive-multipurpose-wordpress-theme/Ultra-v1.2/Licensing/GPL.txt",
+		"/C/Users/Personal/Documents/themeforest-4371217-ultra-responsive-multipurpose-wordpress-theme/Ultra-v1.2/Licensing/README_License.txt",
+		"/C/Users/Personal/Copy/IT Starts With Coffee/5. Espresso Themes/1. Under development/Themes/Arctic Foundation 5 WordPress Theme/sales-pitch.txt",
+		"/C/wamp/www/Projects/2.WPTheme-Dev/Arctic-WP-Theme/css/style-dark.css",
+		"/C/Users/Personal/Copy/IT Starts With Coffee/1. Libraries/1. Wordpress/Gekochte Licenties/Themes/Rework WP Theme/Licensing/GPL.txt",
+		"/C/wamp/www/projects/2.wptheme-dev/arctic-wp-theme/css/style.css",
+		"/C/wamp/www/projects/2.wptheme-dev/arctic-wp-theme/config.rb",
+		"/C/Users/Personal/AppData/Local/Temp/2-vc.html",
+		"/C/Users/Personal/AppData/Local/Temp/1-header.php",
+		"/C/wamp/www/Projects/2.WPTheme-Dev/zip-arctic-wp/index.html",
+		"/C/wamp/www/Projects/2.WPTheme-Dev/Metallic/metallic-v1.1/single-post.php",
+		"/C/wamp/www/Projects/2.WPTheme-Dev/Metallic/metallic-v1.1/css/style.css",
+		"/C/wamp/www/Projects/2.WPTheme-Dev/Electric/sass/_custom.scss",
+		"/C/wamp/www/Projects/2.WPTheme-Dev/Electric/blog.html",
+		"/C/wamp/www/projects/2.wptheme-dev/arctic-wp-theme/page.html",
+		"/C/wamp/www/projects/2.wptheme-dev/arctic-wp-theme/page-right-sidebar.html",
+		"/C/wamp/www/projects/2.wptheme-dev/arctic-wp-theme/page-left-sidebar.html",
+		"/C/wamp/www/projects/2.wptheme-dev/arctic-wp-theme/page-full-wdith.html",
+		"/C/wamp/www/projects/2.wptheme-dev/arctic-wp-theme/sidebar-template.html",
+		"/C/wamp/www/projects/2.wptheme-dev/arctic-wp-theme/scss/app.scss",
+		"/C/wamp/www/Libraries/Sublime-Text-3-Project-Map/1.SiteTemplate-Dev/arctic-wp-theme.sublime-project",
+		"/C/wamp/www/Projects/2.WPTheme-Dev/Electric/index.html",
+		"/C/wamp/www/Projects/2.WPTheme-Dev/Arctic-WP-Theme/fonts/foundation-icons.css",
+		"/C/wamp/www/Projects/2.WPTheme-Dev/0.Template/index.html",
+		"/C/wamp/www/projects/2.wptheme-dev/arctic-wp-theme/img/arctic-logo.png",
+		"/C/wamp/www/Projects/5.Basis-Pakketten/Tijd-Voor-Tekst/index.html",
+		"/C/Users/Personal/AppData/Roaming/Sublime Text 3/Packages/User/Snippet.foundation5-fullwidth-index",
+		"/C/wamp/www/projects/2.wptheme-dev/arctic-wp-theme/README.md",
+		"/C/Program Files/nodejs/node_modules/npm/npmrc",
+		"/C/wamp/www/Libraries/Sublime-Text-3-Project-Map/1.SiteTemplate-Dev/fleur-brandsen.sublime-project",
+		"/C/wamp/www/Projects/1.SiteTemplate-Dev/Fleur-Brandsen/index.html",
+		"/C/wamp/www/Projects/1.SiteTemplate-Dev/Fleur-Brandsen/sass/_custom.scss",
+		"/C/wamp/www/Projects/1.SiteTemplate-Dev/Fleur-Brandsen/sass/_settings.scss",
+		"/F/Downloads/themeforest-1970657-zwin-responsive-vcard-template/theme/index.html",
+		"/C/Users/Personal/Copy/IT Starts With Coffee/5. Wordpress Lab/1. Under development/Themes/Metallic Responsive WordPress Theme/Project/5. Documentation/index.html",
+		"/C/wamp/www/Projects/1.SiteTemplate-Dev/TuinenPlus/index.html",
+		"/C/wamp/www/Projects/1.SiteTemplate-Dev/Fleur-Brandsen/sass/style.scss",
+		"/C/wamp/www/Projects/1.SiteTemplate-Dev/Fleur-Brandsen/testimoniums.html",
+		"/C/wamp/www/Projects/1.SiteTemplate-Dev/Fleur-Brandsen/single-post.html",
+		"/C/wamp/www/Projects/1.SiteTemplate-Dev/Fleur-Brandsen/blog.html",
+		"/C/Users/Personal/AppData/Local/Temp/2-footer.php",
+		"/C/Users/Personal/AppData/Local/Temp/1-footer.php",
+		"/C/wamp/www/Projects/1.SiteTemplate-Dev/Fleur-Brandsen/img/quote-left.png",
+		"/C/wamp/www/Projects/1.SiteTemplate-Dev/Fleur-Brandsen/img/quote-right.png",
+		"/C/Users/Personal/Copy/IT Starts With Coffee/5. Wordpress Lab/Under development/Plugins/ISWC Projects/iswc_cpt_meta_box.php",
+		"/C/wamp/www/Projects/1.SiteTemplate-Dev/Fleur-Brandsen/over-mij.html",
+		"/C/wamp/www/Projects/1.SiteTemplate-Dev/Fleur-Brandsen/portfolio.html",
+		"/C/wamp/www/Projects/1.SiteTemplate-Dev/Fleur-Brandsen/single-portfolio.html",
+		"/C/wamp/www/Projects/1.SiteTemplate-Dev/Reulink-IT/particulier.php",
+		"/C/wamp/www/Projects/1.SiteTemplate-Dev/Fleur-Brandsen/javascripts/foundation/foundation.orbit.js",
+		"/C/wamp/www/Projects/2.WPTheme-Dev/Metallic/metallic-v1.1/index.php",
+		"/C/wamp/www/Projects/1.SiteTemplate-Dev/Fleur-Brandsen/config.rb",
+		"/C/wamp/www/Projects/1.SiteTemplate-Dev/Fleur-Brandsen/img/pw_maze_white.png",
+		"/F/Downloads/pw_maze_white/pw_maze_white/pw_maze_white.png",
+		"/C/Users/Personal/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/wamp/www/Projects/1.SiteTemplate-Dev/Fleur-Brandsen/css/style.css",
+		"/C/Users/Personal/AppData/Local/Temp/1-phpinfo.php",
+		"/C/Users/Personal/AppData/Local/Temp/2-phpinfo.php",
+		"/C/wamp/www/Projects/2.WPTheme-Dev/Metallic/metallic-v1.0/css/style.css",
+		"/C/wamp/www/Projects/2.WPTheme-Dev/Metallic/metallic-v1.0/index.html",
+		"/C/wamp/www/Projects/1.SiteTemplate-Dev/Fleur-Brandsen/img",
+		"/C/wamp/www/Projects/1.SiteTemplate-Dev/Fleur-Brandsen/humans.txt",
+		"/C/wamp/www/Libraries/Sublime-Text-3-Project-Map/5.Sandbox-Algemeen/sandbox-sass.sublime-project",
+		"/C/wamp/www/Projects/1.SiteTemplate-Dev/Fleur-Brandsen",
+		"/C/wamp/www/Sandbox/Algemeen/Foundation-SASS/css/style.css",
+		"/C/wamp/www/Sandbox/Algemeen/Foundation-SASS/sass/_settings.scss",
+		"/C/wamp/www/Sandbox/Algemeen/Foundation-SASS/sass/style.scss",
+		"/C/wamp/www/Sandbox/Algemeen/Foundation-SASS/index.html",
+		"/C/wamp/www/Projects/1.SiteTemplate-Dev/Reulink-IT.zip",
+		"/C/Users/Personal/AppData/Roaming/Sublime Text 3/Packages/User/Foundation-Index.sublime-snippet",
+		"/C/wamp/www/Sandbox/Algemeen/Foundation-SASS/config.rb",
+		"/C/wamp/www/Sandbox/Algemeen/Foundation-SASS/humans.txt",
+		"/C/wamp/www/Sandbox/Algemeen/Foundation-SASS/css/app.css",
+		"/C/wamp/www/Sandbox/Algemeen/SASS/sass-test/config.rb",
+		"/C/wamp/www/Sandbox/Algemeen/SASS/sass-test/css/style.css",
+		"/C/wamp/www/Sandbox/Algemeen/SASS/sass-test/sass/style.scss",
+		"/C/wamp/www/Sandbox/Algemeen/SASS/sass-test/index.html",
+		"/C/Users/Personal/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG",
+		"/C/Users/Personal/AppData/Roaming/Sublime Text 3/Installed Packages/SASS Build.sublime-package",
+		"/C/wamp/www/Sandbox/Algemeen/SASS/style.scss",
+		"/C/wamp/www/Sandbox/Algemeen/lottes-site/style.css",
+		"/C/wamp/www/Sandbox/Algemeen/lottes-site/index.html",
+		"/F/Downloads/foundation-4.3.2/index.html",
+		"/C/wamp/www/Sandbox/Algemeen/vertaal-site/index.htm",
+		"/C/wamp/www/Sandbox/Algemeen/vertaal-site/diensten.htm",
+		"/F/Downloads/foundation.custom/foundation/stylesheets/foundation.css",
+		"/C/wamp/www/Sandbox/Algemeen/SASS/diensten.htm",
+		"/C/wamp/www/Sandbox/Algemeen/SASS/prijzen.htm",
+		"/C/wamp/www/Sandbox/Algemeen/SASS/referenties.htm",
+		"/C/wamp/www/Sandbox/Algemeen/SASS/contact.htm",
+		"/C/wamp/www/Libraries/Sublime-Text-3-Project-Map/2.WPTheme-Dev/metallic-theme.sublime-project",
+		"/C/wamp/www/Sandbox/Algemeen/SASS/sass-test/stylesheets/style.css",
+		"/C/wamp/www/Sandbox/Algemeen/SASS/index.html",
+		"/C/wamp/www/Sandbox/Algemeen/SASS/style.css",
+		"/C/wamp/www/Projects/2.WPTheme-Dev/Metallic/metallic-v1.0/css/foundation.css",
+		"/C/Users/Personal/AppData/Local/Temp/1-theme-options.php",
+		"/F/Downloads/LiftUX-UpThemes-Framework-v2.0.1-56-g90b725a/LiftUX-UpThemes-Framework-90b725a/theme-options.php",
+		"/F/Downloads/LiftUX-UpThemes-Framework-v2.0.1-56-g90b725a/LiftUX-UpThemes-Framework-90b725a/README.md",
+		"/C/Users/Personal/AppData/Local/Temp/2-functions.php",
+		"/C/Users/Personal/AppData/Local/Temp/1-functions.php",
+		"/C/Users/Personal/AppData/Local/Temp/1-options.php",
+		"/F/Downloads/LiftUX-UpThemes-Framework-v2.0.1-56-g90b725a/LiftUX-UpThemes-Framework-90b725a/theme-options-example.php",
+		"/C/Users/Personal/AppData/Local/Temp/5-theme-options-example.txt",
+		"/C/wamp/www/Projects/2.WPTheme-Dev/Metallic/metallic-v1.1/test.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"li.qs-questionnaire .qs-status",
+			".btn-pr",
+			"border-bottom",
+			"profile-activ",
+			"cntrl_news",
+			"</i>",
+			"<li>",
+			"</ul>",
+			"<li>",
+			"</ul>",
+			"<li>",
+			"</ul>",
+			"<li>",
+			"</ul>",
+			"<li>",
+			"</ul>",
+			"<li>",
+			"</ul>",
+			"<li>",
+			"</ul>",
+			"<li>",
+			"</ul>",
+			"<li>",
+			"</ul>",
+			"<li>",
+			"</ul>",
+			"<li>",
+			"</ul>",
+			"<ul data-dropdown-content=\"\" data-options=\"is_hover:true\"",
+			"<ul",
+			"data-options=\"is_hover:true\" data-dropdown=",
+			"class=\"with-download-link\"",
+			"\"\"",
+			".project",
+			".panel",
+			"0",
+			"40px",
+			"$small",
+			".panel",
+			"medium",
+			"large",
+			"$dark",
+			"$darken",
+			"text-align",
+			"offset",
+			"9",
+			"4",
+			"right",
+			"small",
+			"article",
+			"header",
+			"2",
+			"snow-color",
+			"600/150",
+			"600",
+			"blue",
+			"dark-grey",
+			"$-",
+			"dark-grey",
+			"12",
+			"Gene",
+			"menu-hover",
+			"#",
+			"uppercase",
+			"new",
+			"1d1d1d",
+			"facebook",
+			"12",
+			"normal",
+			"uppercase",
+			"blue",
+			"4",
+			"0",
+			"ft",
+			"@media",
+			"media",
+			"class=\"text-center\"",
+			"small",
+			"default",
+			"small",
+			"default",
+			"ccc",
+			"000",
+			"ccc",
+			"Page",
+			"Home",
+			"1000x300",
+			"class=\"active\"",
+			"Home",
+			"min",
+			"rounded",
+			"50",
+			"10px",
+			"left",
+			"150",
+			"ul",
+			"list",
+			"#",
+			"p",
+			"|",
+			"<div class=\"panel\">",
+			"4",
+			"480",
+			"sports",
+			"business",
+			"people",
+			"city",
+			"sports",
+			"business",
+			"people",
+			"100",
+			"940",
+			"480",
+			"../img/demos/demo1.png",
+			"				    	<div class=\"orbit-caption\">Voorbeeld slide #1</div>\n",
+			"true",
+			"animation",
+			"button",
+			"3",
+			"media",
+			"media-query",
+			"button",
+			"orbit",
+			"top-bar",
+			"EEEBEB",
+			"d0d0d0",
+			"orbit",
+			"ccc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\wamp\\www\\Libraries\\Sublime-Text-3-Project-Map\\4.Envato-Tuts-Plus\\foundation-5-topbar-offcanvas-demo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
